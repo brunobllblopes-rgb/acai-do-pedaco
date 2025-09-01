@@ -1,0 +1,10 @@
+acai-do-pedaco/
+ ├─ app/
+ │   └─ page.jsx
+ ├─ components/
+ │   └─ ui/
+ │        ├─ card.tsx
+ │        ├─ button.tsx
+ │        ├─ input.tsx
+ │        └─ select.tsx
+ ├─ package.json
